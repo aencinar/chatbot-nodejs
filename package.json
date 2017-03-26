@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aencinar/chatbot-nodejs.git"
+  },
+  "author": "Ana Encinar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aencinar/chatbot-nodejs/issues"
+  },
+  "homepage": "https://github.com/aencinar/chatbot-nodejs#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
